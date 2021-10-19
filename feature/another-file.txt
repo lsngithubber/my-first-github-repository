@@ -2,3 +2,4 @@ just another file created in the feature - 1 branch.
 
 first modification in another-file.txt
 second modification in another-file.txt
+third modification in another-file.txt
